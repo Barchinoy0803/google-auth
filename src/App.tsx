@@ -30,6 +30,7 @@ const App = () => {
         onError={() => {
           console.log('Login Failed');
         }}
+         ux_mode="popup"
       />
       
       </div>
